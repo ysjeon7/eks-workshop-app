@@ -1,1 +1,1 @@
-# eks-workshop-app
+# eks-example
